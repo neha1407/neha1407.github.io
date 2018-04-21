@@ -1,3 +1,77 @@
 body {
-	background:beige;
+	height:1500px;
+}
+@font-face {
+   font-family: PrymaDemo;
+   src: url(../Fonts/PrymaDemo.ttf);
+}
+@font-face {
+	font-family: ChinalBlack_PERSONAL_USE;
+	src: url(../Fonts/ChinalBlack_PERSONAL_USE.ttf);
+}
+@font-face {
+	font-family: Magnolia;
+	src: url(../Fonts/Magnolia.ttf);
+}
+
+@font-face {
+	font-family: StrongBoldOne;
+	src: url(../Fonts/StrongBoldOne.ttf);
+}
+
+@font-face {
+	font-family: Litchis;
+	src: url(../Fonts/LitchisonVelvet_PersonalUseOnly.ttf);
+}
+@font-face {
+	font-family: Hello-Christmas-trial;
+	src: url(../Fonts/Hello-Christmas-trial.ttf);
+}
+/* Style the header */
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+}
+.navbar-inverse {
+	background: linear-gradient(to right, #f9f9eb, #ebfafa , #99e6e6);
+	border-color: #99e6e6;
+    /*background-color: #ebfafa; 
+    border-color: #99e6e6;*/ 
+}
+.navbar-nav {
+    float: right;
+    margin-top: 50px;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    transform: rotate(0deg);
+    border-radius: 4px;
+    font-size: 50pt;
+    font-family: StrongBoldOne;
+    margin: 0 auto;
+}
+.logoTxt {
+	transform: rotate(-45deg);
 }

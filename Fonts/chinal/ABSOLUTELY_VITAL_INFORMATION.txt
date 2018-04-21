@@ -1,0 +1,33 @@
+By installing or using this font you agree to the Product Usage Agreement:
+http://www.mansgreback.com/pua
+
+-----------------------
+
+This font is for PERSONAL USE ONLY and requires a license for commercial use. 
+The font license can be purchased at: 
+http://www.mansgreback.com/fonts/chinal
+
+Please read "What license do I need?" for more info:
+http://www.mansgreback.com/license
+
+-----------------------
+
+Chinal is a harmonic script typeface, drawn and created by Måns Grebäck during 2017. 
+This high quality typeface family comes in four complementing weights: 
+Chinal Light, Chinal Medium, Chinal Bold and Chinal Black.
+
+The font also contains multiple extra OpenType features; including 
+contextual alternates, a set of stylistic alternate characters, 
+swashes, initial and final letters, ornaments and ligatures. 
+
+With its hundreds of glyphs, Chinal supports a very wide range of languages. 
+
+Make swashes with [ ] { }
+Example: Chinal{
+
+-----------------------
+
+For further information, please read the FAQ:
+http://www.mansgreback.com/faq
+
+
